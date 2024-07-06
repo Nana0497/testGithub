@@ -80,7 +80,20 @@ table{
   padding: 1rem; 
   font-size:x-large;
 }
-.img{
+table, th, td {
+  border: 1px solid #a2a2a2;
+}
+
+#milestone-table{
+  border-collapse: collapse;
+}
+/* 
+#studying-image[
+  display: flex;
+  justify-content: center;
+  align-items: center;
+] */
+.img-peter{
   display: flex;
   justify-content: center;
   align-items: center;
